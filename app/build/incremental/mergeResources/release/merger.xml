@@ -2,44 +2,44 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="D:\DeveloperWork\EXAMPLES\git\Android\GradleAndroidSample\app\res" >
+        <source path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/res" >
             <file
                 name="ic_launcher"
-                path="D:\DeveloperWork\EXAMPLES\git\Android\GradleAndroidSample\app\res\drawable-hdpi\ic_launcher.png"
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/res/drawable-hdpi/ic_launcher.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="D:\DeveloperWork\EXAMPLES\git\Android\GradleAndroidSample\app\res\drawable-ldpi\ic_launcher.png"
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/res/drawable-ldpi/ic_launcher.png"
                 qualifiers="ldpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="D:\DeveloperWork\EXAMPLES\git\Android\GradleAndroidSample\app\res\drawable-mdpi\ic_launcher.png"
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/res/drawable-mdpi/ic_launcher.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="D:\DeveloperWork\EXAMPLES\git\Android\GradleAndroidSample\app\res\drawable-xhdpi\ic_launcher.png"
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/res/drawable-xhdpi/ic_launcher.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="main"
-                path="D:\DeveloperWork\EXAMPLES\git\Android\GradleAndroidSample\app\res\layout\main.xml"
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/res/layout/main.xml"
                 qualifiers=""
                 type="layout" />
             <file
-                path="D:\DeveloperWork\EXAMPLES\git\Android\GradleAndroidSample\app\res\values\strings.xml"
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/res/values/strings.xml"
                 qualifiers="" >
                 <string name="app_name" >MainActivity
                 </string>
             </file>
         </source>
-        <source path="D:\DeveloperWork\EXAMPLES\git\Android\GradleAndroidSample\app\build\res\rs\release" />
-        <source path="D:\DeveloperWork\EXAMPLES\git\Android\GradleAndroidSample\app\build\res\generated\release" />
+        <source path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build/res/rs/release" />
+        <source path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build/res/generated/release" />
     </dataSet>
     <dataSet config="release" >
-        <source path="D:\DeveloperWork\EXAMPLES\git\Android\GradleAndroidSample\app\src\release\res" />
+        <source path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/src/release/res" />
     </dataSet>
 
 </merger>

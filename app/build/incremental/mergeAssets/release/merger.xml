@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="D:\DeveloperWork\EXAMPLES\git\Android\GradleAndroidSample\app\assets" />
+        <source path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/assets" />
     </dataSet>
     <dataSet config="release" >
-        <source path="D:\DeveloperWork\EXAMPLES\git\Android\GradleAndroidSample\app\src\release\assets" />
+        <source path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/src/release/assets" />
     </dataSet>
 
 </merger>
