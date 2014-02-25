@@ -1,6 +1,138 @@
 <?xml version="1.0" encoding="utf-8"?>
 <merger>
 
+    <dataSet config="YukuAmbilwarnaAmbilWarna10.aar" >
+        <source path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build/exploded-bundles/YukuAmbilwarnaAmbilWarna10.aar/res" >
+            <file
+                name="ambilwarna_arrow_down"
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build/exploded-bundles/YukuAmbilwarnaAmbilWarna10.aar/res/drawable/ambilwarna_arrow_down.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ambilwarna_arrow_right"
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build/exploded-bundles/YukuAmbilwarnaAmbilWarna10.aar/res/drawable/ambilwarna_arrow_right.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ambilwarna_cursor"
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build/exploded-bundles/YukuAmbilwarnaAmbilWarna10.aar/res/drawable/ambilwarna_cursor.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ambilwarna_hue"
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build/exploded-bundles/YukuAmbilwarnaAmbilWarna10.aar/res/drawable/ambilwarna_hue.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ambilwarna_target"
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build/exploded-bundles/YukuAmbilwarnaAmbilWarna10.aar/res/drawable/ambilwarna_target.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ambilwarna_arrow_down"
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build/exploded-bundles/YukuAmbilwarnaAmbilWarna10.aar/res/drawable-hdpi/ambilwarna_arrow_down.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ambilwarna_arrow_right"
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build/exploded-bundles/YukuAmbilwarnaAmbilWarna10.aar/res/drawable-hdpi/ambilwarna_arrow_right.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ambilwarna_cursor"
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build/exploded-bundles/YukuAmbilwarnaAmbilWarna10.aar/res/drawable-hdpi/ambilwarna_cursor.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ambilwarna_target"
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build/exploded-bundles/YukuAmbilwarnaAmbilWarna10.aar/res/drawable-hdpi/ambilwarna_target.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ambilwarna_arrow_down"
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build/exploded-bundles/YukuAmbilwarnaAmbilWarna10.aar/res/drawable-ldpi/ambilwarna_arrow_down.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ambilwarna_arrow_right"
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build/exploded-bundles/YukuAmbilwarnaAmbilWarna10.aar/res/drawable-ldpi/ambilwarna_arrow_right.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ambilwarna_cursor"
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build/exploded-bundles/YukuAmbilwarnaAmbilWarna10.aar/res/drawable-ldpi/ambilwarna_cursor.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ambilwarna_target"
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build/exploded-bundles/YukuAmbilwarnaAmbilWarna10.aar/res/drawable-ldpi/ambilwarna_target.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ambilwarna_arrow_down"
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build/exploded-bundles/YukuAmbilwarnaAmbilWarna10.aar/res/drawable-xhdpi/ambilwarna_arrow_down.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ambilwarna_arrow_right"
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build/exploded-bundles/YukuAmbilwarnaAmbilWarna10.aar/res/drawable-xhdpi/ambilwarna_arrow_right.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ambilwarna_cursor"
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build/exploded-bundles/YukuAmbilwarnaAmbilWarna10.aar/res/drawable-xhdpi/ambilwarna_cursor.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ambilwarna_target"
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build/exploded-bundles/YukuAmbilwarnaAmbilWarna10.aar/res/drawable-xhdpi/ambilwarna_target.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ambilwarna_dialog"
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build/exploded-bundles/YukuAmbilwarnaAmbilWarna10.aar/res/layout/ambilwarna_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="ambilwarna_pref_widget"
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build/exploded-bundles/YukuAmbilwarnaAmbilWarna10.aar/res/layout/ambilwarna_pref_widget.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="ambilwarna_dialog"
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build/exploded-bundles/YukuAmbilwarnaAmbilWarna10.aar/res/layout-land/ambilwarna_dialog.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build/exploded-bundles/YukuAmbilwarnaAmbilWarna10.aar/res/values/values.xml"
+                qualifiers="" >
+                <dimen name="ambilwarna_hsvHeight" >240dp
+                </dimen>
+                <dimen name="ambilwarna_spacer" >8dp
+                </dimen>
+                <dimen name="ambilwarna_hueWidth" >30dp
+                </dimen>
+                <dimen name="ambilwarna_hsvWidth" >240dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build/exploded-bundles/YukuAmbilwarnaAmbilWarna10.aar/res/values-land/values.xml"
+                qualifiers="land" >
+                <dimen name="ambilwarna_hsvHeight" >120dp
+                </dimen>
+                <dimen name="ambilwarna_hsvWidth" >240dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build/exploded-bundles/YukuAmbilwarnaAmbilWarna10.aar/res/values-xlarge-land/values.xml"
+                qualifiers="xlarge-land" >
+                <dimen name="ambilwarna_hsvWidth" >240dp
+                </dimen>
+                <dimen name="ambilwarna_hsvHeight" >240dp
+                </dimen>
+            </file>
+        </source>
+    </dataSet>
     <dataSet config="main" >
         <source path="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/res" >
             <file

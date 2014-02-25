@@ -13,7 +13,7 @@
         errorLine2="    ~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
             file="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build.gradle"
-            line="20"
+            line="21"
             column="5"/>
     </issue>
 
@@ -29,7 +29,7 @@
         errorLine2="    ~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
             file="/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build.gradle"
-            line="37"
+            line="38"
             column="5"/>
     </issue>
 

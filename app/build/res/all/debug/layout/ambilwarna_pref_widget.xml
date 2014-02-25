@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yuku.ambilwarna.widget.AmbilWarnaPrefWidgetView 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ambilwarna_pref_widget_kotak" 
+    android:layout_width="24dp"
+    android:layout_height="24dp"
+    android:layout_gravity="center_vertical"
+    android:layout_marginRight="6dp"
+    android:focusable="false"
+    android:clickable="false" />
+<!-- From: file:/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/libraries/AmbilWarna/res/layout/ambilwarna_pref_widget.xml --><!-- From: file:/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/ANDROID/examples/Gradle/gradle-android-sample/app/build/exploded-bundles/YukuAmbilwarnaAmbilWarna10.aar/res/layout/ambilwarna_pref_widget.xml -->
